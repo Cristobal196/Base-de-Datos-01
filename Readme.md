@@ -28,7 +28,7 @@ Para poder clonar el repositorio tienes tres formas de poder hacerlo:
 2. Segunda opción. 
    
    - En Visual Studio, abre el menú Git y selecciona Clonar repositorio
-   - En GitHub Desktop, selecciona el repositorio que quieres clonar, elige el directorio local donde lo quieres clonar y haz clic en clonar.
+   - En GitHub Desktop, selecciona el repositorio que quieres clonar, elige       el directorio local donde lo quieres clonar y haz clic en clonar.
 
 3. Tercera opción.
 
@@ -36,18 +36,18 @@ Para poder clonar el repositorio tienes tres formas de poder hacerlo:
       
 Descripción de ejercicios y contenido de clases.
 
-Clase 1:Presentación de asignatura.
-Clase 2:Ejercicios diagramas de MER.
-Clase 3:Ejercicios MER y Programiz.
-Clase 4:Scripts.
-Clase 5:Ejercicios relaciones.
-Clase 6:Ejercicios prácticos.
-Clase 7:Actividad Draw.io.
-Clase 8:Sentencias.
-Clase 9:Ejercicios Programiz.
-Clase 10:Ejercicios-SQL-EASY.
-Clase 11:Ejercicios prácticos.
-Clase 12:Ejercicios para evaluación.
+- Clase 1:Presentación de asignatura.
+- Clase 2:Ejercicios diagramas de MER.
+- Clase 3:Ejercicios MER y Programiz.
+- Clase 4:Scripts.
+- Clase 5:Ejercicios relaciones.
+- Clase 6:Ejercicios prácticos.
+- Clase 7:Actividad Draw.io.
+- Clase 8:Sentencias.
+- Clase 9:Ejercicios Programiz.
+- Clase 10:Ejercicios-SQL-EASY.
+- Clase 11:Ejercicios prácticos.
+- Clase 12:Ejercicios para evaluación.
 
 Como ejecutar un archivo SQL:
 
