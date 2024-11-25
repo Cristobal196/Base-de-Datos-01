@@ -48,6 +48,9 @@ Descripción de ejercicios y contenido de clases.
 - Clase 10:Ejercicios-SQL-EASY.
 - Clase 11:Ejercicios prácticos.
 - Clase 12:Ejercicios para evaluación.
+- Clase 13:MySQL.
+- Clase 14:Scripts.
+- Clase 15:Ejercicios MySQL.
 
 Como ejecutar un archivo SQL:
 
